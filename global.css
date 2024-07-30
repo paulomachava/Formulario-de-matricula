@@ -27,3 +27,7 @@
 
    --sematic-error:#DC2626;
 }
+
+body{
+    overflow: hidden;
+}
