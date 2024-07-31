@@ -8,10 +8,12 @@
 main{
     overflow: auto;
     padding: 4rem;
+    padding-bottom: 8rem;
 
     & .main-container{
         max-width: 33rem;
         margin-left: auto;
+       
     }
 
     & .back{
